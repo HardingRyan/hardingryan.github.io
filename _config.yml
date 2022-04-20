@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ryan Harding's Personal Website
 twitter_username: rnharding
 github_username: HardingRyan
-minimal_mistakes_skin: default
+minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 github: [metadata]
 

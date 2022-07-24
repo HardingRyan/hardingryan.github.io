@@ -9,7 +9,7 @@ tags:
 ---
 <img src="\assets\images\findmyflix.png" alt="FindMyFlix" float="center"><br>
 
-<strong>Download <a href="\files\FindMyFlix.exe" download="FindMyFlix">here!</a></strong>
+<strong>Download <a href="\files\FindMyFlix.exe" download>here!</a></strong>
 
 I am excited to announce the first release of my desktop application, FindMyFlix! FindMyFlix uses Python, Tkinter, and the WatchMode API to query over 200 streaming services for information regarding various movies and TV shows. The platform is updated daily to ensure real-time data and accurate reporting. Information is presented in an intuitive and easy-to-understand manner.
 

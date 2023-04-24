@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Ryan Harding"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/headshot.jpg"
   bio    : "UTCS 2025. Aspiring software developer, data scientist, and problem solver."
   links:
     - label: "Website"
